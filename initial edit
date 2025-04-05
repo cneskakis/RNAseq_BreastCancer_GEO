@@ -1,0 +1,25 @@
+# RNAseq_BreastCancer_GEO
+
+This repository contains a real RNAseq project using gene expression data from the GSE22820 dataset (GEO).
+
+🧬 **Organism:** Homo sapiens  
+🎯 **Focus:** Breast cancer vs normal tissue  
+📚 **Data source:** NCBI GEO (Accession: GSE22820)
+
+---
+
+## 📂 Contents
+
+- DESeq2-based differential expression analysis  
+- PCA and Volcano plots  
+- Biological interpretation of top genes
+
+---
+
+## 🧠 Goal
+
+To identify differentially expressed genes between tumor and control samples, visualize sample separation, and explore biological insights.
+
+---
+
+🧵 Dataset details: [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE22820](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE22820)
